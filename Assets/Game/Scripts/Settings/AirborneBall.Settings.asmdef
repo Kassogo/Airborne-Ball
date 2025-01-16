@@ -1,0 +1,16 @@
+{
+    "name": "AirborneBall.Settings",
+    "rootNamespace": "AirborneBall.Settings",
+    "references": [
+        "GUID:970ecbb155b4fe7448126c59f949ec72"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

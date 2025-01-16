@@ -1,0 +1,16 @@
+{
+    "name": "AirborneBall.Attach",
+    "rootNamespace": "AirborneBall.Attach",
+    "references": [
+        "GUID:7ca9a3f743db549418713bbf7b5eab4d"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

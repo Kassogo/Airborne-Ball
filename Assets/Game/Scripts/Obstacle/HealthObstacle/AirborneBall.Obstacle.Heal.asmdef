@@ -1,0 +1,17 @@
+{
+    "name": "AirborneBall.Obstacle.Heal",
+    "rootNamespace": "AirborneBall.Obstacle.Heal",
+    "references": [
+        "GUID:3885a66251d4a324796f783258936a51",
+        "GUID:c73b7ddaa18ad5a4aa98b40d7062f79a"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

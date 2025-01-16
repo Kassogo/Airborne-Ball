@@ -1,0 +1,16 @@
+{
+    "name": "AirborneBall.Obstacle",
+    "rootNamespace": "AirborneBall.Obstacle",
+    "references": [
+        "GUID:cc017a27bb304234799b3c57971d2c49"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

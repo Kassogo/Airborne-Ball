@@ -1,0 +1,18 @@
+{
+    "name": "AirborneBall.ShowerHealthPlayer",
+    "rootNamespace": "AirborneBall.ShowerHealthPlayer",
+    "references": [
+        "GUID:3885a66251d4a324796f783258936a51",
+        "GUID:0d4d8a5025706a041a672cb602c86764",
+        "GUID:41baff76c4035bc4db4b978d7a8ef1d4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
